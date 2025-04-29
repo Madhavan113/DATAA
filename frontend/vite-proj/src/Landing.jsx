@@ -19,8 +19,8 @@ import TaskList from './components/TaskList';
 
 // --- Configuration ---
 // Using your actual deployed contract addresses on Base Sepolia
-export const DATA_DEX_CONTRACT_ADDRESS = "0x72b5fC9ECed3157674A187d30c7D36bdAD950B9d";
-export const DATA_TOKEN_CONTRACT_ADDRESS = "0x9028ACe5350461A50e2F1A810Ec71d10C9eBB3D0";
+export const DATA_DEX_CONTRACT_ADDRESS = "0x72b5fc9eced3157674a187d30c7d36bdad950b9d";
+export const DATA_TOKEN_CONTRACT_ADDRESS = "0x9028ACe5350461A50e2F1A810Ec71d10C9eBB3D0"; 
 // Define the chain you are working on
 export const CHAIN = baseSepolia;
 // Define your Thirdweb Client ID (ensure this matches the one in main.jsx)

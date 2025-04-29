@@ -1,4 +1,4 @@
-export const DATA_DEX_ABI = [[
+export const DATA_DEX_ABI = [
     {
       "inputs": [
         {
@@ -707,5 +707,5 @@ export const DATA_DEX_ABI = [[
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]
+  
 ];
